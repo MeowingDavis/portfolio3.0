@@ -5,7 +5,7 @@ body {
     margin: 0 auto;
     overflow: auto;
     background: linear-gradient(120deg, #170164, #aca9a9, #170164);
-    background-size: 280% 300%;
+    background-size: 400% 400%;
     animation: gradient-animation 90s ease infinite;
 
 }

@@ -75,8 +75,8 @@ h3 {
 .button {
     position: relative;
     background-color: white;
-    height: 3.5rem;
-    width: 3.5rem;
+    height: 4rem;
+    width: 4rem;
     border-radius: 50%;
     position: fixed;
     top: 5vh;
@@ -88,12 +88,12 @@ h3 {
 }
 
 .background {
-    height: 3rem;
-    width: 3rem;
+    height: 4rem;
+    width: 4rem;
     border-radius: 50%;
     position: fixed;
-    top: 6vh;
-    right: 5.2vw;
+    top: 5vh;
+    right: 5vw;
     background: linear-gradient(120deg, #170164, #aca9a9, #000000);
     z-index: 1000;
 }
