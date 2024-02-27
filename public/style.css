@@ -33,7 +33,9 @@ section {
     max-width: 900px;
     margin: 0 auto;
     padding-bottom: 20px;
-    overflow: hidden;
+}
+section * {
+    margin: 0;
 }
 
 section h1 {
