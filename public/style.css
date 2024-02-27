@@ -6,9 +6,11 @@
 body {
     font-family: monospace;
     color: rgba(255, 255, 255, 0.902);
+    max-width: 900px;
+    margin: 0 auto;
     overflow: auto;
     background: linear-gradient(120deg, #170164, #aca9a9, #170164);
-    background-size: 280% 300%;
+    background-size: 400% 400%;
     animation: gradient-animation 90s ease infinite;
 
 }
