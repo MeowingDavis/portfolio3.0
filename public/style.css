@@ -10,7 +10,7 @@ body {
     margin: 0 auto;
  
     background: linear-gradient(120deg, #170164, #aca9a9, #170164);
-    
+    background-size: vh vw;
     animation: gradient-animation 90s ease infinite;
 
 }
@@ -33,7 +33,7 @@ section {
     max-width: 900px;
     margin: 0 auto;
     padding-bottom: 20px;
-    overflow: auto;
+    overflow: hidden;
 }
 
 section h1 {
@@ -393,7 +393,4 @@ iframe {
 }
 
 
-}
-footer {
-    overflow: hidden;
 }
