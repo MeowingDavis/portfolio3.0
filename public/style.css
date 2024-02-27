@@ -224,7 +224,7 @@ h3 {
     overflow: auto;
     border: 3px solid #ccc;
     color: rgba(255, 255, 255, 0.902);
-    margin-bottom: 20px;
+   
 
 }
 
@@ -258,6 +258,8 @@ h3 {
     border-top: none;
     border-radius: 0 0 10px 10px;
     box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.441);
+    margin-bottom: 20px;
+    overflow: hidden;
 }
 
 .flex-container {
