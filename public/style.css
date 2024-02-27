@@ -107,7 +107,7 @@ h3 {
 }
 
 .nav {
-    height: 100vh;
+    height: calc(100vh - 5rem); /* Adjust the height as needed */
     position: fixed;
     top: 0;
     right: -60vw;
@@ -115,6 +115,7 @@ h3 {
     opacity: 0;
     width: 0;
     transition: all 0.8s;
+    overflow-y: auto; 
 }
 
 .list {
