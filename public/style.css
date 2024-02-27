@@ -10,7 +10,7 @@ body {
     margin: 0 auto;
  
     background: linear-gradient(120deg, #170164, #aca9a9, #170164);
-    background-size: vh vw;
+    
     animation: gradient-animation 90s ease infinite;
 
 }
